@@ -1,0 +1,1 @@
+Exercícios de JS para resgatar a lógica.
